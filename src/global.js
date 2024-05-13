@@ -31,6 +31,6 @@ function FormatDateTime(date) {
 
 // const SYSTEM_URL = "http://38.180.105.203:8010/";
 // const SYSTEM_URL = "http://localhost:8000/";
-const SYSTEM_URL = "http://a.larak.com.iq:8000";
+const SYSTEM_URL = "http://a.larak.com.iq:8000/";
 
 export { formatDate, SYSTEM_URL, FormatDateTime };
